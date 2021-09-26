@@ -1,5 +1,6 @@
-# Imersão Dev 2 - Tabela de classificação
+# Imersão Dev - Tabela de classificação
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/mariagabrielareis/pen/xxrarBg](https://codepen.io/mariagabrielareis/pen/xxrarBg).
+Código criado na aula 06 do evento “Imersão Dev (2ª edição”), produzido pela Alura. 
+- Foi utilizado a plataforma CodePen.io, podendo ser conferido [neste link](https://codepen.io/mariagabrielareis/pen/xxrarBg).
 
 
